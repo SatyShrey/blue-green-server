@@ -21,3 +21,11 @@ How to run project in local machine:
 - open the project root folder in code editor (ex. vscode)
 - 1st command: "npm install" (for first time, internet connection needed)
 - 2nd command: "npm run dev" (to start the server)
+
+ Testing Tips:
+- Use Postman or curl to simulate different routing strategies
+- Test with and without headers/cookies
+- Mock IP addresses for IP-based routing
+- Validate fallback randomness with multiple requests
+
+##########################################################################################################
