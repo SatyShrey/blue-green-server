@@ -1,7 +1,7 @@
 {
   "headerRouting":false,
   "ipRouting": false,
-  "cookieRouting":false,
+  "cookieRouting":true,
   "cookieName": "pricing_version",
   "strategy": "percentage",
   "percentageSplit": {
