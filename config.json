@@ -1,0 +1,11 @@
+{
+  "headerRouting":false,
+  "ipRouting": false,
+  "cookieRouting":false,
+  "cookieName": "pricing_version",
+  "strategy": "percentage",
+  "percentageSplit": {
+    "blue": 70,
+    "green": 30
+  }
+}
