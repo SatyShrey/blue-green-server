@@ -32,7 +32,7 @@ function routingMiddleware(req, res, next) {
   // 3. IP-based routing
   if (!chosen && config.ipRouting) {
     const ip=req.ip;
-    chosen= ip.includes('10') ? 'green' : "blue" ;
+    chosen= ip.includes('3') ? 'green' : "blue" ;
     method= 'ip';
   }
 
