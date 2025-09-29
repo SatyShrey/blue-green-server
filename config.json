@@ -1,5 +1,5 @@
 {
-  "headerRouting":false,
+  "headerRouting":true,
   "ipRouting": false,
   "cookieRouting":true,
   "cookieName": "pricing_version",
